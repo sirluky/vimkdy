@@ -9,7 +9,8 @@
   "author": "Tomáš Kalina",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon src/app.ts"
+    "start": "nodemon src/app.ts",
+    "build": "tsc && node build/app"
   },
   "dependencies": {
     "express": "^4.17.1"
