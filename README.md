@@ -1,7 +1,9 @@
 # vimkdy
 
-## \frontend> npm install
-## \frontend> npm start
+## FrontEnd
+#### \frontend> npm install
+#### \frontend> npm start
 
-## \backend> npm install
-## \backend> npm start
+## Backend
+#### \backend> npm install
+#### \backend> npm start
