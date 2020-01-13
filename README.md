@@ -1,4 +1,2 @@
 # vimkdy
 
-
-test commitu
